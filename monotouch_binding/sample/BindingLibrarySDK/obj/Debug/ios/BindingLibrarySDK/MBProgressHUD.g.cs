@@ -29,7 +29,7 @@ using OpenTK;
 
 namespace BindingLibrarySDK {
 	[Register("MBProgressHUD", true)]
-	public unsafe partial class MBProgressHUD : NSObject {
+	public unsafe partial class MBProgressHUD : MonoTouch.UIKit.UIView {
 		[CompilerGenerated]
 		static readonly IntPtr selLabelText = Selector.GetHandle ("labelText");
 		[CompilerGenerated]

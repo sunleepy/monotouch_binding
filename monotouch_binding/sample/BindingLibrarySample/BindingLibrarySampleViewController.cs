@@ -52,7 +52,7 @@ namespace BindingLibrarySample
 		    hud = BindingLibrarySDK.MBProgressHUD.ShowHUDAddedTo(this.View, true);
 			hud.Show(true);
 			hud.LabelText = "加载中...";
-			hud.Hide(true, 1);
+			hud.Hide(true, 1); // hide hud after 1s 
 		}
 	}
 }

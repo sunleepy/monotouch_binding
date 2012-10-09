@@ -1,4 +1,4 @@
-/Users/apple/myworks/cnblogs/monotouch_binding/sample/BindingLibrarySample/BindingLibrarySDK.dll.mdb
-/Users/apple/myworks/cnblogs/monotouch_binding/sample/BindingLibrarySample/BindingLibrarySDK.dll
-/Users/apple/myworks/cnblogs/monotouch_binding/sample/BindingLibrarySDK/obj/Debug/BindingLibrarySDK.dll
-/Users/apple/myworks/cnblogs/monotouch_binding/sample/BindingLibrarySDK/obj/Debug/BindingLibrarySDK.dll.mdb
+/Users/sunleepy/myworks/githubs/sunleepy/monotouch_binding/monotouch_binding/sample/BindingLibrarySample/BindingLibrarySDK.dll.mdb
+/Users/sunleepy/myworks/githubs/sunleepy/monotouch_binding/monotouch_binding/sample/BindingLibrarySample/BindingLibrarySDK.dll
+/Users/sunleepy/myworks/githubs/sunleepy/monotouch_binding/monotouch_binding/sample/BindingLibrarySDK/obj/Debug/BindingLibrarySDK.dll
+/Users/sunleepy/myworks/githubs/sunleepy/monotouch_binding/monotouch_binding/sample/BindingLibrarySDK/obj/Debug/BindingLibrarySDK.dll.mdb

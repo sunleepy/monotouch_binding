@@ -64,7 +64,7 @@ namespace BindingLibrarySDK
 	// For more information, see http://docs.xamarin.com/ios/advanced_topics/binding_objective-c_types
 	//
 
-	[BaseType (typeof (NSObject))]
+	[BaseType (typeof (UIView))]
 	interface MBProgressHUD
 	{
 		[Static, Export("showHUDAddedTo:animated:")]
