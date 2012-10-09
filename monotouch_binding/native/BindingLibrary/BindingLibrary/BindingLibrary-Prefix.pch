@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'BindingLibrary' target in the 'BindingLibrary' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
